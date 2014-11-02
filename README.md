@@ -1,4 +1,5 @@
 ExampleRepo
 ===========
 
-First Git repo
+First Git repo created 
+
